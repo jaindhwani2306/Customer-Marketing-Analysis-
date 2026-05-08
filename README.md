@@ -76,8 +76,7 @@ This dashboard helps marketing teams:
 ---
 
 ## Author
-Your Name
+Dhwani Jain
 
 ## Contact
-- LinkedIn: [Add LinkedIn URL]
-- GitHub: [Add GitHub URL]
+- LinkedIn: [www.linkedin.com/in/dhwani-jainn]
